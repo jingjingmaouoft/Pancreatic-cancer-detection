@@ -13,5 +13,5 @@ from github import
 import warnings
 warnings.filterWarnings('ignore')
 
-GITHUB_RAW_URL= "
+ds = pd.read_csv("Pancreatic_data(1).xlsx")
 print (ds.head)
