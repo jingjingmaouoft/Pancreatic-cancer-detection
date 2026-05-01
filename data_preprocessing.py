@@ -11,5 +11,6 @@ from github import
 import warnings
 warnings.filterWarnings('ignore')
 
-ds = pd.read_csv("
+git add Pancreatic_data(1).xlsx
+
 print (ds.head)
